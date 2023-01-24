@@ -1,0 +1,17 @@
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\bin\Debug\net6.0-windows\身份证归属地查询.exe
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\bin\Debug\net6.0-windows\身份证归属地查询.deps.json
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\bin\Debug\net6.0-windows\身份证归属地查询.runtimeconfig.json
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\bin\Debug\net6.0-windows\身份证归属地查询.dll
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\bin\Debug\net6.0-windows\身份证归属地查询.pdb
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.csproj.AssemblyReference.cache
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.Form1.resources
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.csproj.GenerateResource.cache
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.AssemblyInfoInputs.cache
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.AssemblyInfo.cs
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.dll
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\refint\身份证归属地查询.dll
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.pdb
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\身份证归属地查询.genruntimeconfig.cache
+F:\Visual Studio 2022项目程序\身份证归属地查询\身份证归属地查询\obj\Debug\net6.0-windows\ref\身份证归属地查询.dll

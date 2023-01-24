@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "身份证归属地查询/1.0.0": {
+        "runtime": {
+          "身份证归属地查询.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "身份证归属地查询/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
